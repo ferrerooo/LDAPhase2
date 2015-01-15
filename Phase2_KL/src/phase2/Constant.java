@@ -20,7 +20,7 @@ public class Constant {
 	public static String BACKTRACEMAPPATH = "C:/Users/nancy.quan/Desktop/lda/mid_data/backTraceMap.txt";	
 	*/
 	
-	
+	/*
 	// public computers
 	public static String branchPath ="C:/Users/zouc/Desktop/lda/mid_data/";
 	public static String allTopicKeywordsPath = "C:/Users/zouc/Desktop/lda/mid_data/allTopicKeywords.txt";
@@ -30,5 +30,16 @@ public class Constant {
 	public static String PHIFILEPATH = "C:/Users/nancy.quan/Desktop/lda/output/casestudy/";
 	public static String TRACEMAPPATH =     "C:/Users/zouc/Desktop/lda/mid_data/traceMap.txt";
 	public static String BACKTRACEMAPPATH = "C:/Users/zouc/Desktop/lda/mid_data/backTraceMap.txt";		
+	 */
+	
+	// Mac Air
+	public static String branchPath ="/Users/zouc/Desktop/lda/mid_data/";
+	public static String allTopicKeywordsPath = "/Users/zouc/Desktop/lda/mid_data/allTopicKeywords.txt";
+	public static String autoScanConnection =   "/Users/zouc/Desktop/lda/mid_data/";
+	
+	
+	public static String PHIFILEPATH = "/Users/zouc/Desktop/lda/output/casestudy/";
+	public static String TRACEMAPPATH =     "/Users/zouc/Desktop/lda/mid_data/traceMap.txt";
+	public static String BACKTRACEMAPPATH = "/Users/zouc/Desktop/lda/mid_data/backTraceMap.txt";		
 
 }
